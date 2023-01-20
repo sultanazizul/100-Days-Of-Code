@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673710839 source:s:\code\100daysofcode\day 11 - dadu\main.cpp
+	<iostream>
+	<ctime>
+
